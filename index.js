@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `DK-MD connected ✅\n\nPREFIX: ${prefix}`;
       await DK.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DKfork/DK-MD/blob/main/images/realistic%20robot%20and%20.png?raw=true` },
+        image: { url: `https://github.com/DKfork/DK-MD/blob/main/images/download_1.jpg?raw=true` },
         caption: up
       });
 
